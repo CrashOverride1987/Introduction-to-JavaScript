@@ -188,7 +188,6 @@ function game(user, computer) {
     }
     } 
 
-  console.log('task game', game('rock', computer));
   
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
